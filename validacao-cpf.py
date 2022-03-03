@@ -86,3 +86,6 @@ def gerarCPF():
 if __name__ == '__main__':
     cpf = gerarCPF()
     validarCPF(cpf)
+    print()
+    cpf = gerarCPF()
+    validarCPF
